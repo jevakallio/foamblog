@@ -1,10 +1,15 @@
 # Foam
 
-We've created a few Bubbles (markdown documents) to get you started. 
+Eventually, this will become a public blog, but for now I'm testing Foam's features for blogging/static site generation. Nothing to see here, come back later.
 
-Feel free to use them or delete them. Your Foam, your rules.
+A
+[Inbox]: inbox
 
-- [Inbox](inbox.md) - a place to write down quick notes to be categorised later
-- [Todo](todo.md) - a todo list
-- [Foam tips](foam_tips.md) - tips to get the most out of your foam.
+B
+[Inbox]: inbox.md
 
+C
+[[Inbox]]
+
+D
+[Inbox](inbox.md)
