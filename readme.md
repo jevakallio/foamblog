@@ -2,32 +2,13 @@
 
 Eventually, this will become a public blog, but for now I'm testing Foam's features for blogging/static site generation. Nothing to see here, come back later.
 
-[Inbox]
+[inbox]: inbox.md
+[multipart title]: multipart-title.md
 
-C
-[Inbox]
+1. [Inbox]
+2. [[Multipart Title]]
+3. [Multipart Title]
+4. [[Secondary file]]
+5. [Secondary file]
 
-D
-[Inbox](inbox.md)
-
-E
-
-[[inbox.md]]
-
-F
-[[Multipart Title]]
-
-G
-[[multipart-title.md]]
-
-F
-[Multipart Title]
-
-G
-[multipart-title.md]
-
-F
-[Multipart_Title]
-
-G
-[multipart_ title.md]
+[secondary file]: secondary-file.md
