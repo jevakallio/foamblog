@@ -13,6 +13,8 @@ Eventually, this will become a public blog, but for now I'm testing Foam's featu
 6. [[secondary-file.md]]
 7. [[multipart_title.md]]
 
-[[wiki-link]]
+[[test-creating-new-file.md]]
+[[how_about_this_file.md]]
 
 [secondary file]: secondary-file.md
+[secondary-file.md]: secondary-file.md "Secondary file title"
