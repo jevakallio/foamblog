@@ -31,3 +31,12 @@ blockquote {
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
     "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
+
+a[title] {
+  font-size: 0;
+}
+
+a[title]:after {
+  content: attr(title);
+  font-size: initial;
+}
