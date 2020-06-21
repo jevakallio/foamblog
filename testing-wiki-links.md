@@ -1,12 +1,12 @@
 # Testing wiki links
 
-Input: `This is a [[wiki-link]].`:
+Input: `This is a [[wiki-link]].`
 
 Output: This is a [[wiki-link]].
 
 ---
 
-Input:
+This works by creating a footnote section with markdown references at the end of the file
 
 ```
 [wiki-link]: wiki-link.md "Wiki link"
@@ -26,7 +26,7 @@ Generates this html:
 
 ---
 
-But this CSS makes it display the title:
+But this CSS makes it display the title instead of the content
 
 ```css
 a[title] {
