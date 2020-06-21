@@ -36,6 +36,10 @@ a[title] {
 a[title]:after {
   content: attr(title);
   font-size: initial;
+
+  outline-width: 4px;
+  outline-color: rgba(255, 255, 255, 0.8);
+  outline-style: solid;
 }
 ```
 
