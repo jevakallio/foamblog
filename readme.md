@@ -4,4 +4,4 @@ Eventually, this will become a public blog, but for now I'm testing Foam's featu
 
 - [[testing-wiki-links]]
 
-[testing-wiki-links]: testing-wiki-links.md "Testing wiki links"
+[testing-wiki-links]: testing-wiki-links "Testing wiki links"

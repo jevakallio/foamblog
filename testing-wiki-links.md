@@ -12,7 +12,7 @@ This works by creating a footnote section with markdown references at the end of
 [wiki-link]: wiki-link.md "Wiki link"
 ```
 
-[wiki-link]: wiki-link.md "Wiki Link"
+[wiki-link]: wiki-link "Wiki Link"
 
 Output: (None)
 
