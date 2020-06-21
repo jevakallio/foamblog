@@ -3,11 +3,6 @@
 Eventually, this will become a public blog, but for now I'm testing Foam's features for blogging/static site generation. Nothing to see here, come back later.
 
 [Inbox]
-A
-[Inbox]: inbox
-
-B
-[Inbox]: inbox.md
 
 C
 [Inbox]
@@ -35,4 +30,4 @@ F
 [Multipart_Title]
 
 G
-[multipart_title.md]
+[multipart_ title.md]
