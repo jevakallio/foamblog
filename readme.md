@@ -10,5 +10,9 @@ Eventually, this will become a public blog, but for now I'm testing Foam's featu
 3. [Multipart Title]
 4. [[Secondary file]]
 5. [Secondary file]
+6. [[secondary-file.md]]
+7. [[multipart_title.md]]
+
+[[wiki-link]]
 
 [secondary file]: secondary-file.md
