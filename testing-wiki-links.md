@@ -6,6 +6,8 @@ Output: This is a [[wiki-link]].
 
 ---
 
+[[other-link.md]]
+
 This works by creating a footnote section with markdown references at the end of the file
 
 ```
