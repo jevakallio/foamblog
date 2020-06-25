@@ -31,17 +31,3 @@ blockquote {
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
     "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
-
-a[title] {
-  font-size: 0;
-}
-
-a[title]:after {
-  content: attr(title);
-  font-size: initial;
-
-  // Fade the brackets
-  outline-width: 4px;
-  outline-color: rgba(255, 255, 255, 0.8);
-  outline-style: solid;
-}
