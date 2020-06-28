@@ -1,6 +1,10 @@
+<blockquote class="github-warning">
+    Looks like you're reading this page on GitHub, which means some of the links may not work correctly. Please go to the [rendered Foam workpace](https://foambubble.github.io/foam) for an improved experience!
+</blockquote>
+
 # Foam
 
-> ℹ Looks like you're reading this page on GitHub, which means some of the links may not work correctly. Please go to the [rendered Foam workpace](https://foambubble.github.io/foam) for an improved experience!
+
 
 Eventually, this will become a public blog, but for now I'm testing Foam's features for blogging/static site generation. Nothing to see here, come back later.
 
