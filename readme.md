@@ -4,6 +4,14 @@
 
 # Foam
 
+Main project repository:
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/foambubble/foam" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star foambubble/foam on GitHub">Star</a>
+
+Foam Template:
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/foambubble/foam-template/generate" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template foambubble/foam-template on GitHub">Use this template</a>
+
 
 
 Eventually, this will become a public blog, but for now I'm testing Foam's features for blogging/static site generation. Nothing to see here, come back later.
