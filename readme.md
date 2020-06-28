@@ -6,7 +6,7 @@
 
 Main project repository:
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/foambubble/foam" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star foambubble/foam on GitHub">Star</a>
+<a class="github-button" href="https://github.com/foambubble/foam" data-icon="octicon-star" data-show-count="true" aria-label="Star foambubble/foam on GitHub">Star</a>
 
 Foam Template:
 <!-- Place this tag where you want the button to render. -->
