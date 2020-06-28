@@ -1,5 +1,5 @@
 <blockquote class="github-warning">
-    Looks like you're reading this page on GitHub, which means some of the links may not work correctly. Please go to the [rendered Foam workpace](https://foambubble.github.io/foam) for an improved experience!
+    Looks like you're reading this page on GitHub, which means some of the links may not work correctly. Please go to the <a href="https://foambubble.github.io/foam">rendered Foam Workspace</a> for an improved experience!
 </blockquote>
 
 # Foam
