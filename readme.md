@@ -1,12 +1,11 @@
-<blockquote class="foam-github-warning">
-    👋 <b>Hello friend!</b> Looks like you're reading this page on GitHub, which means some of the links may not work correctly. Please go to the <a href="https://foambubble.github.io/foam">rendered Foam Workspace</a> for an improved experience!
-</blockquote>
-
+<div class="right-align">
+    <a class="github-button" href="https://github.com/foambubble/foam" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star foambubble/foam on GitHub">Star</a> 
+    <a class="github-button" href="https://github.com/foambubble/foam-template/generate" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template foambubble/foam-template on GitHub">Use this template</a>
+</div>
 # Foam
 
 Side by side
-<a class="github-button" href="https://github.com/foambubble/foam" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star foambubble/foam on GitHub">Star</a> 
-<a class="github-button" href="https://github.com/foambubble/foam-template/generate" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template foambubble/foam-template on GitHub">Use this template</a>
+
 
 
 
