@@ -1,13 +1,11 @@
-<div class="right-align">
+<div class="website-only">
     <a class="github-button" href="https://github.com/foambubble/foam" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star foambubble/foam on GitHub">Star</a> 
     <a class="github-button" href="https://github.com/foambubble/foam-template/generate" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template foambubble/foam-template on GitHub">Use this template</a>
 </div>
+
 # Foam
 
 Side by side
-
-
-
 
 Eventually, this will become a public blog, but for now I'm testing Foam's features for blogging/static site generation. Nothing to see here, come back later.
 
