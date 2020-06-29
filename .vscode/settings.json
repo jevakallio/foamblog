@@ -5,6 +5,8 @@
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
   "workbench.colorTheme": "Gray Matter Light",
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
   "cSpell.language": "en-GB",
   "[markdown]": {
     "editor.formatOnSave": false,
