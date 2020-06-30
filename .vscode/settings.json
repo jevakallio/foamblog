@@ -10,6 +10,7 @@
   "cSpell.language": "en-GB",
   "[markdown]": {
     "editor.formatOnSave": false,
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": true,
+    "files.eol": "\r\n"
   }
 }
