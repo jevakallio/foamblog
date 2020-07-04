@@ -21,7 +21,7 @@
 [foo]: foo "Foo"
 [hello]: hello "Hello"
 [wiki-link]: wiki-link "Wiki Link"
-[subdir-sibling]: subdir-sibling "Subdirectory sibling"
+[subdir-sibling]: subdirectory/subdir-sibling "Subdirectory sibling"
 [inbox]: inbox "Inbox"
 [secondary-file]: secondary-file "Secondary file"
 [new-link]: new-link "New Link"
